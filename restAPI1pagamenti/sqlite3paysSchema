@@ -1,0 +1,10 @@
+CREATE TABLE pays (
+       id primary key,
+       sender VARCHAR,
+       senderIBAN VARCHAR,
+       amount INTEGER,
+       recipient VARCHAR,
+       recipientIBAN VARCHAR,
+       valid INTEGER,       
+       paymentDateTime INTEGER
+       )

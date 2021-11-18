@@ -1,0 +1,9 @@
+{
+    "sender": "Robert De Niro",
+    "senderIBAN": "1111222233334444",
+    "amount": 1972.00,
+    "recipient": "Al Pacino",
+    "recipientIBAN": "5555666677778888",
+    "valid": true,
+    "paymentDateTime": ""
+}
