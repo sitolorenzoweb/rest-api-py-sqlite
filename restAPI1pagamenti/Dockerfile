@@ -2,7 +2,7 @@ FROM python:3.9
 
 RUN pip3 install pipenv
 
-ENV PROJECT_DIR /usr/src/flaskbookapi
+ENV PROJECT_DIR /usr/src/flaskpaymentsapi
 
 WORKDIR ${PROJECT_DIR}
 
